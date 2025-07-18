@@ -54,7 +54,7 @@ button {
 
   border-radius: 8px;
   padding: 8px 16px;
-  width: 86px;
+  max-width: 86px;
   height: 40px;
   border: none;
 
